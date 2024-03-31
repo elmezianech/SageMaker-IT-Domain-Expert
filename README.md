@@ -1,5 +1,11 @@
 # SageMaker-IT-Domain-Expert
 
+## Context of the project
+This repository hosts a proof-of-concept (POC) project titled "Introducing Generative AI with AWS", focusing on fine-tuning large language models using SageMaker. The project aims to equip students with advanced ML and LLM skills by developing a domain expert model tailored for a specific domain. Leveraging AWS tools, students train a language model capable of generating contextually relevant text responses. The project emphasizes rigorous evaluation, comparing the fine-tuned model against the original to validate effectiveness, serving as a resource for high-quality ML solutions.
+
+## About the project 
+
+
 ## Dataset Used:
 The dataset selected for this project revolves around challenges in ubiquitous data management within the IT domain. It contains discussions on various aspects such as mobility support, context awareness, support for collaboration, adaptivity, and user interaction within ubiquitous computing environments. This dataset serves as the training ground for fine-tuning the language model to become a domain expert in IT-related text generation.
 
@@ -25,7 +31,7 @@ The dataset selected for this project revolves around challenges in ubiquitous d
   
 5- Testing and Evaluation:
 
-  -The deployed model is tested and evaluated for its responses to domain-specific knowledge and text-generation tasks relevant to the IT domain.
+  -The deployed model is tested and evaluated for its responses to domain-specific knowledge and text-generation tasks relevant to the IT domain. As part of the project evaluation, I conducted a comparative analysis between the fine-tuned model and the deployed model to discern any differences in their performance. This comparative assessment aimed to gauge the effectiveness of fine-tuning the language model on domain-specific data.
   
 6- Documentation and Submission:
 
