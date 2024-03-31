@@ -13,16 +13,20 @@ The dataset selected for this project revolves around challenges in ubiquitous d
   -An AWS SageMaker IAM Role is configured to provide necessary permissions for accessing AWS resources.
   -An AWS SageMaker Notebook Instance is set up for developing and running code.
   -A GPU instance (ml.g5.2xlarge) is requested for fine-tuning the language model.
+
 3- Fine-tuning the Language Model:
 
 -The Meta Llama 2 7B foundation model is deployed on the AWS platform.
 -Python scripts are employed to fine-tune the model on the selected IT domain dataset, enhancing its understanding of domain-specific language and concepts.
+
 4- Model Deployment:
 
   -The fine-tuned language model is deployed on SageMaker to make it accessible for inference.
+  
 5- Testing and Evaluation:
 
   -The deployed model is tested and evaluated for its responses to domain-specific knowledge and text-generation tasks relevant to the IT domain.
+  
 6- Documentation and Submission:
 
   -A comprehensive report and presentation documenting the process, challenges, and solution are prepared for submission.
