@@ -32,10 +32,6 @@ The dataset selected for this project revolves around challenges in ubiquitous d
 5- Testing and Evaluation:
 
   -The deployed model is tested and evaluated for its responses to domain-specific knowledge and text-generation tasks relevant to the IT domain. As part of the project evaluation, I conducted a comparative analysis between the fine-tuned model and the deployed model to discern any differences in their performance. This comparative assessment aimed to gauge the effectiveness of fine-tuning the language model on domain-specific data.
-  
-6- Documentation and Submission:
-
-  -A comprehensive report and presentation documenting the process, challenges, and solution are prepared for submission.
 
 
 ## Technologies Used:
@@ -47,3 +43,11 @@ The dataset selected for this project revolves around challenges in ubiquitous d
 3-Python: Python programming language is extensively used for scripting and interacting with AWS services, including SageMaker.
 
 4-AWS Services: The project leverages various AWS services, including IAM (Identity and Access Management) for managing access to AWS services securely, EC2 (Elastic Compute Cloud) for requesting GPU instances for model training, and S3 (Simple Storage Service) for storing datasets and model artifacts.
+
+
+## Comparative Analysis:
+The project includes a comparative analysis between the fine-tuned and deployed models to assess performance, validating the effectiveness of fine-tuning on domain-specific data.
+
+
+## Documentation and Submission:
+A comprehensive report documenting the process, challenges, and solutions is prepared for submission.
