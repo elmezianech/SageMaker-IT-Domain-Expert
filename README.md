@@ -4,7 +4,7 @@
 This repository hosts a proof-of-concept (POC) project titled "Introducing Generative AI with AWS", focusing on fine-tuning large language models using SageMaker. The project aims to equip students with advanced ML and LLM skills by developing a domain expert model tailored for a specific domain. Leveraging AWS tools, students train a language model capable of generating contextually relevant text responses. The project emphasizes rigorous evaluation, comparing the fine-tuned model against the original to validate effectiveness, serving as a resource for high-quality ML solutions.
 
 ## About the project 
-
+This project aimed at developing a domain expert model tailored for the Information Technology (IT) domain. The project employs advanced NLP techniques to train and deploy in AWS SageMaker a large language model, capable of generating informative and contextually relevant text responses in the IT domain.
 
 ## Dataset Used:
 The dataset selected for this project revolves around challenges in ubiquitous data management within the IT domain. It contains discussions on various aspects such as mobility support, context awareness, support for collaboration, adaptivity, and user interaction within ubiquitous computing environments. This dataset serves as the training ground for fine-tuning the language model to become a domain expert in IT-related text generation.
